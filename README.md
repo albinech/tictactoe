@@ -1,6 +1,5 @@
 # tictactoe
 
-
 Tic Tac Toe
 1.
 Write a function print_board() that just prints the empty board:
